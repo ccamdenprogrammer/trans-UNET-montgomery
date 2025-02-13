@@ -60,6 +60,7 @@ plot_predictions(model, X_val, y_val, num_samples=5)
 - Ensure dataset paths are correctly set before running the script.
 - Augmentation techniques can be modified for better performance.
 
-## License
-This project is open-source and available for research and educational purposes.
+## References
+- Chen, J., Lu, Y., Yu, Q., Luo, X., Adeli, E., Wang, Y., Lu, L., Yuille, A. L., & Zhou, Y. (2021). "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation." arXiv preprint arXiv:2102.04306.
+- Ronneberger, O., Fischer, P., & Brox, T. (2015). "U-Net: Convolutional Networks for Biomedical Image Segmentation." In *Medical Image Computing and Computer-Assisted Intervention* (MICCAI). Springer, LNCS.
 
